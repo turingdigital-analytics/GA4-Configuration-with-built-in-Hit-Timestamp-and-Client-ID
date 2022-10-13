@@ -1,0 +1,5 @@
+homepage: "https://github.com/turingdigital-analytics/GA4-Configuration-with-built-in-Hit-Timestamp-and-Client-ID"
+documentation: "https://github.com/turingdigital-analytics/GA4-Configuration-with-built-in-Hit-Timestamp-and-Client-ID"
+versions:
+  - sha: c6faea3b241f6ec13943faca768ca17108900ccf
+    changeNotes: Initial release.
